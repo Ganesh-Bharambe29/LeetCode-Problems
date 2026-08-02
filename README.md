@@ -38,3 +38,11 @@ This repository contains my accepted Java solutions to LeetCode problems. I use 
 - Bit Manipulation
 
 Happy Coding! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [3110-score-of-a-string](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3110-score-of-a-string) |
+<!---LeetCode Topics End-->
