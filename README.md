@@ -54,4 +54,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0052-n-queens-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
