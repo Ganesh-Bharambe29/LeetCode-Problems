@@ -54,6 +54,7 @@ Happy Coding! 🚀
 | [1480-running-sum-of-1d-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2574-left-and-right-sum-differences](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [3701-compute-alternating-sum](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3731-find-missing-elements) |
@@ -96,4 +97,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0011-container-with-most-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 <!---LeetCode Topics End-->
