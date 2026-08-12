@@ -58,6 +58,7 @@ Happy Coding! 🚀
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2574-left-and-right-sum-differences](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [3701-compute-alternating-sum](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3701-compute-alternating-sum) |
@@ -139,4 +140,5 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2319-check-if-matrix-is-x-matrix) |
 <!---LeetCode Topics End-->
