@@ -53,6 +53,7 @@ Happy Coding! 🚀
 | [0011-container-with-most-water](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [1470-shuffle-the-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
+| [1572-matrix-diagonal-sum](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -134,4 +135,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
