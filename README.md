@@ -55,6 +55,7 @@ Happy Coding! 🚀
 | [1480-running-sum-of-1d-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1672-richest-customer-wealth](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -140,5 +141,6 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2319-check-if-matrix-is-x-matrix) |
 <!---LeetCode Topics End-->
