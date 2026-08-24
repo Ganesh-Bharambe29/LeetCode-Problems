@@ -93,6 +93,7 @@ Happy Coding! 🚀
 | [0141-linked-list-cycle](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3731-find-missing-elements](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3731-find-missing-elements) |
+| [3945-digit-frequency-score](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
 | ------- |
@@ -105,6 +106,7 @@ Happy Coding! 🚀
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3895-count-digit-appearances](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3895-count-digit-appearances) |
+| [3945-digit-frequency-score](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
 | ------- |
