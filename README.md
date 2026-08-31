@@ -123,6 +123,7 @@ Happy Coding! 🚀
 | [2413-smallest-even-multiple](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2544-alternating-digit-sum](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2544-alternating-digit-sum) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
