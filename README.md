@@ -70,6 +70,7 @@ Happy Coding! 🚀
 | [2574-left-and-right-sum-differences](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2942-find-words-containing-character) |
+| [2974-minimum-number-game](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2974-minimum-number-game) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3668-restore-finishing-order](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3668-restore-finishing-order) |
@@ -82,6 +83,7 @@ Happy Coding! 🚀
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2974-minimum-number-game](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2974-minimum-number-game) |
 | [3701-compute-alternating-sum](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3701-compute-alternating-sum) |
 ## Backtracking
 |  |
@@ -110,6 +112,7 @@ Happy Coding! 🚀
 | ------- |
 | [0268-missing-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0268-missing-number) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2974-minimum-number-game](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2974-minimum-number-game) |
 | [3731-find-missing-elements](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -187,4 +190,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0268-missing-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
