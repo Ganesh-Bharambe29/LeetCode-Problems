@@ -103,6 +103,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0268-missing-number) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -120,6 +121,7 @@ Happy Coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2235-add-two-integers) |
@@ -138,6 +140,7 @@ Happy Coding! 🚀
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -176,6 +179,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0202-happy-number) |
 ## Matrix
 |  |
 | ------- |
