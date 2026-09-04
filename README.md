@@ -128,6 +128,7 @@ Happy Coding! 🚀
 | [0202-happy-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0441-arranging-coins) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2413-smallest-even-multiple) |
@@ -207,6 +208,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0441-arranging-coins) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Heap (Priority Queue)
 |  |
