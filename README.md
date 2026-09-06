@@ -54,6 +54,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0011-container-with-most-water) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0268-missing-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1470-shuffle-the-array) |
@@ -215,6 +216,7 @@ Happy Coding! 🚀
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0441-arranging-coins) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
