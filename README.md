@@ -46,6 +46,7 @@ Happy Coding! 🚀
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -163,6 +164,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0455-assign-cookies) |
