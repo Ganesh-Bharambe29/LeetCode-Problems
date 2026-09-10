@@ -58,6 +58,7 @@ Happy Coding! 🚀
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0054-spiral-matrix](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0268-missing-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -91,6 +92,7 @@ Happy Coding! 🚀
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -216,6 +218,7 @@ Happy Coding! 🚀
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2319-check-if-matrix-is-x-matrix) |
