@@ -228,6 +228,7 @@ Happy Coding! 🚀
 | [0020-valid-parentheses](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -248,14 +249,17 @@ Happy Coding! 🚀
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
