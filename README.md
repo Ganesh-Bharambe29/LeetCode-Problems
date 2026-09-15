@@ -143,6 +143,7 @@ Happy Coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0202-happy-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0263-ugly-number) |
