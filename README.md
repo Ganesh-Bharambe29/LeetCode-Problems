@@ -191,6 +191,7 @@ Happy Coding! 🚀
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0268-missing-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Number Theory
@@ -278,4 +279,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
