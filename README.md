@@ -49,6 +49,7 @@ Happy Coding! 🚀
 | [0125-valid-palindrome](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0412-fizz-buzz) |
+| [0844-backspace-string-compare](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2942-find-words-containing-character) |
@@ -98,6 +99,7 @@ Happy Coding! 🚀
 | [0258-add-digits](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0495-teemo-attacking) |
+| [0844-backspace-string-compare](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
 | [1103-distribute-candies-to-people](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1103-distribute-candies-to-people) |
 | [1688-count-of-matches-in-tournament](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -183,6 +185,7 @@ Happy Coding! 🚀
 | [0141-linked-list-cycle](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0455-assign-cookies) |
+| [0844-backspace-string-compare](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -243,6 +246,7 @@ Happy Coding! 🚀
 | [0094-binary-tree-inorder-traversal](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0844-backspace-string-compare](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
 |  |
 | ------- |
