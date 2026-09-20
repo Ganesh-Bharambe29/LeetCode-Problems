@@ -55,6 +55,7 @@ Happy Coding! 🚀
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3110-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
 |  |
 | ------- |
@@ -111,6 +112,7 @@ Happy Coding! 🚀
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2974-minimum-number-game](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2974-minimum-number-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3701-compute-alternating-sum) |
 ## Backtracking
 |  |
