@@ -89,6 +89,7 @@ Happy Coding! 🚀
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2974-minimum-number-game) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3668-restore-finishing-order](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3668-restore-finishing-order) |
@@ -140,6 +141,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0575-distribute-candies) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3731-find-missing-elements) |
@@ -312,6 +314,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0229-majority-element-ii) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
