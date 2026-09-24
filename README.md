@@ -95,6 +95,7 @@ Happy Coding! 🚀
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3731-find-missing-elements) |
@@ -192,6 +193,7 @@ Happy Coding! 🚀
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3870-count-commas-in-range) |
