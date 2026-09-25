@@ -229,6 +229,7 @@ Happy Coding! 🚀
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Number Theory
@@ -334,4 +335,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0229-majority-element-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
