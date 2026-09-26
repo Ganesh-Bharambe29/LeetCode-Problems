@@ -182,6 +182,7 @@ Happy Coding! 🚀
 | [0507-perfect-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0836-rectangle-overlap) |
 | [1103-distribute-candies-to-people](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1103-distribute-candies-to-people) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -231,6 +232,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0389-find-the-difference) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Number Theory
 |  |
