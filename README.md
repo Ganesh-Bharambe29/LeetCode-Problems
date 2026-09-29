@@ -82,6 +82,7 @@ Happy Coding! 🚀
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
 | [1720-decode-xored-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1720-decode-xored-array) |
+| [1748-sum-of-unique-elements](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -154,6 +155,7 @@ Happy Coding! 🚀
 | [0389-find-the-difference](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0575-distribute-candies) |
 | [1496-path-crossing](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1496-path-crossing) |
+| [1748-sum-of-unique-elements](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -344,6 +346,7 @@ Happy Coding! 🚀
 | ------- |
 | [0229-majority-element-ii](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0383-ransom-note) |
+| [1748-sum-of-unique-elements](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
