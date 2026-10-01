@@ -49,6 +49,7 @@ Happy Coding! 🚀
 | [0125-valid-palindrome](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
@@ -154,6 +155,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0575-distribute-candies) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -352,6 +354,7 @@ Happy Coding! 🚀
 | ------- |
 | [0229-majority-element-ii](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -366,4 +369,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
