@@ -188,6 +188,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0263-ugly-number) |
@@ -366,6 +367,7 @@ Happy Coding! 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0338-counting-bits) |
 ## Counting Sort
 |  |
@@ -375,4 +377,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
