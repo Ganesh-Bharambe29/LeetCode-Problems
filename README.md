@@ -54,6 +54,7 @@ Happy Coding! 🚀
 | [0412-fizz-buzz](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
+| [1002-find-common-characters](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1002-find-common-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1496-path-crossing](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1496-path-crossing) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -78,6 +79,7 @@ Happy Coding! 🚀
 | [0495-teemo-attacking](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0495-teemo-attacking) |
 | [0575-distribute-candies](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0682-baseball-game) |
+| [1002-find-common-characters](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1002-find-common-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1470-shuffle-the-array) |
@@ -159,6 +161,7 @@ Happy Coding! 🚀
 | [0387-first-unique-character-in-a-string](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0575-distribute-candies) |
+| [1002-find-common-characters](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1002-find-common-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-path-crossing](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1496-path-crossing) |
 | [1748-sum-of-unique-elements](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1748-sum-of-unique-elements) |
