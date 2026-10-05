@@ -333,18 +333,21 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 ## Geometry
@@ -388,4 +391,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
