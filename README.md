@@ -337,6 +337,7 @@ Happy Coding! 🚀
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
@@ -344,6 +345,7 @@ Happy Coding! 🚀
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
@@ -351,6 +353,7 @@ Happy Coding! 🚀
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 ## Geometry
@@ -398,4 +401,5 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
