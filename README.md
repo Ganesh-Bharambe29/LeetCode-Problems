@@ -58,6 +58,7 @@ Happy Coding! 🚀
 | [0917-reverse-only-letters](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0917-reverse-only-letters) |
 | [1002-find-common-characters](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1002-find-common-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1496-path-crossing](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1496-path-crossing) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
