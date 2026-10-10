@@ -45,6 +45,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0242-valid-anagram) |
@@ -253,6 +254,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [2706-buy-two-chocolates](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2706-buy-two-chocolates) |
 ## Bit Manipulation
@@ -372,6 +374,7 @@ Happy Coding! 🚀
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
 |  |
@@ -392,6 +395,7 @@ Happy Coding! 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0338-counting-bits) |
 ## Counting Sort
