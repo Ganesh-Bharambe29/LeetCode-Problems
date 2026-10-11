@@ -106,6 +106,7 @@ Happy Coding! 🚀
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2574-left-and-right-sum-differences](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2706-buy-two-chocolates](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2706-buy-two-chocolates) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -417,4 +418,8 @@ Happy Coding! 🚀
 | [0101-symmetric-tree](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0733-flood-fill](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0733-flood-fill) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
