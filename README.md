@@ -205,6 +205,7 @@ Happy Coding! 🚀
 | ------- |
 | [0007-reverse-integer](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0263-ugly-number) |
@@ -349,6 +350,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0112-path-sum) |
@@ -368,6 +370,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0112-path-sum) |
@@ -403,6 +406,7 @@ Happy Coding! 🚀
 | ------- |
 | [0044-wildcard-matching](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0338-counting-bits](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0338-counting-bits) |
 ## Counting Sort
 |  |
@@ -427,4 +431,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
