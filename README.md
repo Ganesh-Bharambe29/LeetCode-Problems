@@ -88,6 +88,7 @@ Happy Coding! 🚀
 | [0682-baseball-game](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0733-flood-fill) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1002-find-common-characters](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1002-find-common-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -344,6 +345,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0441-arranging-coins) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Heap (Priority Queue)
 |  |
