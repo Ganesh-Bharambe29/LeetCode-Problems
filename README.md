@@ -95,6 +95,7 @@ Happy Coding! 🚀
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1572-matrix-diagonal-sum](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
@@ -198,6 +199,7 @@ Happy Coding! 🚀
 | [0645-set-mismatch](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2706-buy-two-chocolates](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
