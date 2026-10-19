@@ -107,6 +107,7 @@ Happy Coding! 🚀
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2319-check-if-matrix-is-x-matrix) |
@@ -202,6 +203,7 @@ Happy Coding! 🚀
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2706-buy-two-chocolates](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2974-minimum-number-game) |
@@ -349,6 +351,7 @@ Happy Coding! 🚀
 | [0349-intersection-of-two-arrays](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Heap (Priority Queue)
 |  |
