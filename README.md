@@ -92,6 +92,7 @@ Happy Coding! 🚀
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0896-monotonic-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0896-monotonic-array) |
 | [1002-find-common-characters](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1002-find-common-characters) |
+| [1051-height-checker](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -200,6 +201,7 @@ Happy Coding! 🚀
 | [0389-find-the-difference](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0645-set-mismatch) |
+| [1051-height-checker](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -424,6 +426,7 @@ Happy Coding! 🚀
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Queue
 |  |
@@ -448,4 +451,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
