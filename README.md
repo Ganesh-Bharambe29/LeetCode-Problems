@@ -69,6 +69,7 @@ Happy Coding! 🚀
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2409-count-days-spent-together](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3110-score-of-a-string) |
@@ -243,6 +244,7 @@ Happy Coding! 🚀
 | [1822-sign-of-the-product-of-an-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2520-count-the-digits-that-divide-a-number) |
