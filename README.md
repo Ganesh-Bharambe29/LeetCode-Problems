@@ -96,6 +96,7 @@ Happy Coding! 🚀
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0896-monotonic-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0896-monotonic-array) |
 | [1002-find-common-characters](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1002-find-common-characters) |
+| [1046-last-stone-weight](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1331-rank-transform-of-an-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -377,6 +378,7 @@ Happy Coding! 🚀
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1046-last-stone-weight](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1046-last-stone-weight) |
 | [2974-minimum-number-game](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2974-minimum-number-game) |
 ## Tree
 |  |
