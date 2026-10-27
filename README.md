@@ -96,6 +96,7 @@ Happy Coding! 🚀
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0896-monotonic-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0896-monotonic-array) |
 | [1002-find-common-characters](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1002-find-common-characters) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1046-last-stone-weight](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -214,6 +215,7 @@ Happy Coding! 🚀
 | [0389-find-the-difference](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0645-set-mismatch) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -291,6 +293,7 @@ Happy Coding! 🚀
 | [0011-container-with-most-water](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0455-assign-cookies) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [2706-buy-two-chocolates](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2706-buy-two-chocolates) |
 ## Bit Manipulation
 |  |
