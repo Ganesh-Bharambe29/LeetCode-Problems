@@ -243,6 +243,7 @@ Happy Coding! 🚀
 | [0507-perfect-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0836-rectangle-overlap) |
 | [1103-distribute-candies-to-people](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1103-distribute-candies-to-people) |
+| [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
