@@ -95,6 +95,7 @@ Happy Coding! 🚀
 | [0717-1-bit-and-2-bit-characters](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0860-lemonade-change](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0896-monotonic-array) |
 | [1002-find-common-characters](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1002-find-common-characters) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -296,6 +297,7 @@ Happy Coding! 🚀
 | [0011-container-with-most-water](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0860-lemonade-change) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [2706-buy-two-chocolates](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2706-buy-two-chocolates) |
 ## Bit Manipulation
