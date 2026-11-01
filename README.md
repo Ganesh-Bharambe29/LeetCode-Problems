@@ -97,6 +97,7 @@ Happy Coding! 🚀
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0860-lemonade-change](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0896-monotonic-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1002-find-common-characters) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1046-last-stone-weight](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1046-last-stone-weight) |
@@ -217,6 +218,7 @@ Happy Coding! 🚀
 | [0389-find-the-difference](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0645-set-mismatch) |
+| [0977-squares-of-a-sorted-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -286,6 +288,7 @@ Happy Coding! 🚀
 | [0844-backspace-string-compare](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0917-reverse-only-letters) |
+| [0977-squares-of-a-sorted-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
