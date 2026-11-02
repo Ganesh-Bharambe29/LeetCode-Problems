@@ -242,6 +242,7 @@ Happy Coding! 🚀
 | [0258-add-digits](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0365-water-and-jug-problem](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0365-water-and-jug-problem) |
 | [0412-fizz-buzz](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0507-perfect-number) |
@@ -325,10 +326,12 @@ Happy Coding! 🚀
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0365-water-and-jug-problem) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0365-water-and-jug-problem) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Quicksort
 |  |
@@ -411,6 +414,7 @@ Happy Coding! 🚀
 | [0112-path-sum](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0365-water-and-jug-problem](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0365-water-and-jug-problem) |
 | [0733-flood-fill](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
@@ -474,6 +478,7 @@ Happy Coding! 🚀
 | [0100-same-tree](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0112-path-sum) |
+| [0365-water-and-jug-problem](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0365-water-and-jug-problem) |
 | [0733-flood-fill](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0733-flood-fill) |
 ## Enumeration
 |  |
@@ -503,4 +508,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
