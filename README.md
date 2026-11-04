@@ -54,6 +54,7 @@ Happy Coding! 🚀
 | [0387-first-unique-character-in-a-string](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0412-fizz-buzz) |
+| [0504-base-7](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0504-base-7) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0709-to-lower-case) |
@@ -246,6 +247,7 @@ Happy Coding! 🚀
 | [0365-water-and-jug-problem](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0365-water-and-jug-problem) |
 | [0412-fizz-buzz](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0441-arranging-coins) |
+| [0504-base-7](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0836-rectangle-overlap) |
 | [1103-distribute-candies-to-people](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1103-distribute-candies-to-people) |
