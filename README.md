@@ -251,6 +251,7 @@ Happy Coding! 🚀
 | [0441-arranging-coins](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0507-perfect-number) |
+| [0728-self-dividing-numbers](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0836-rectangle-overlap) |
 | [1103-distribute-candies-to-people](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1103-distribute-candies-to-people) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
