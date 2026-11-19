@@ -250,6 +250,7 @@ Happy Coding! 🚀
 | [0263-ugly-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0365-water-and-jug-problem](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0365-water-and-jug-problem) |
+| [0367-valid-perfect-square](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0504-base-7) |
@@ -400,6 +401,7 @@ Happy Coding! 🚀
 | [0162-find-peak-element](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
