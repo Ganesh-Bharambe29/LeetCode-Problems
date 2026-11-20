@@ -89,6 +89,7 @@ Happy Coding! 🚀
 | [0229-majority-element-ii](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0495-teemo-attacking](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0495-teemo-attacking) |
 | [0575-distribute-candies](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0575-distribute-candies) |
@@ -198,6 +199,7 @@ Happy Coding! 🚀
 | [0383-ransom-note](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [1002-find-common-characters](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1002-find-common-characters) |
