@@ -61,6 +61,7 @@ Happy Coding! 🚀
 | [0844-backspace-string-compare](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0917-reverse-only-letters) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1002-find-common-characters](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1002-find-common-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
@@ -100,6 +101,7 @@ Happy Coding! 🚀
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0860-lemonade-change](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0896-monotonic-array) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1002-find-common-characters) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -539,4 +541,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 <!---LeetCode Topics End-->
