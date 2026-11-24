@@ -143,6 +143,7 @@ Happy Coding! 🚀
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3701-compute-alternating-sum) |
@@ -282,6 +283,7 @@ Happy Coding! 🚀
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -342,6 +344,7 @@ Happy Coding! 🚀
 | [0258-add-digits](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2413-smallest-even-multiple) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -505,6 +508,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -545,4 +549,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
+## Sliding Window
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
