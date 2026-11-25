@@ -72,6 +72,7 @@ Happy Coding! 🚀
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/2418-sort-the-people) |
