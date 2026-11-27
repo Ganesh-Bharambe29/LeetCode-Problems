@@ -86,6 +86,7 @@ Happy Coding! 🚀
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0229-majority-element-ii) |
@@ -195,6 +196,7 @@ Happy Coding! 🚀
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0229-majority-element-ii) |
@@ -379,6 +381,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0733-flood-fill](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1572-matrix-diagonal-sum](https://github.com/Ganesh-Bharambe29/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
